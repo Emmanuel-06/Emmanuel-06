@@ -1,7 +1,6 @@
 - 👋 Hello, I’m Emmanuel
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin and jetpack compose
-- 💞️ I’m looking to collaborate on android app development
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning Android development on Udacity
 - 📫 To reach me, you can send a mail to enemonaemmanuel4@gmail.com
 
 <!---
